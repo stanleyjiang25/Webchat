@@ -34,9 +34,9 @@ Since you likely just updated your version of Ocaml, you should reinstall all th
 
 `opam install caqti`
 
-`opam install caqti_lwt`
+`opam install caqti-lwt`
 
-`opam install caqti_driver_postgresql`
+`opam install caqti-driver-postgresql`
 
 Some of these installations may ask for your permission or ask a y/n question. Just enter "y" and continue with the installation.
 
